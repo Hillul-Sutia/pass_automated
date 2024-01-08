@@ -16,7 +16,6 @@ python -m venv env
 Activate environment
 
 For windows
-
 env/Scripts/activate
 
 For linux
@@ -25,6 +24,7 @@ source env/bin/activate
 
 ## 4 Install required Dependencies
 Run below command to install
+
 pip install -r requirements.txt
 
 ## Enter username and password
