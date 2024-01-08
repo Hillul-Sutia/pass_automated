@@ -1,14 +1,33 @@
-chrome driver download link : https://chromedriver.chromium.org/downloads
+### Automated PASS SMILES Bio-Activity and Toxicity Prediction
+
+![]
 
 # Instructions for usage
 
 ## 1 Download this repository
+## 2 Download chrome driver 
+Download chrome driver from https://chromedriver.chromium.org/downloads that matches your chrome browser version and Paste the driver in the same diretory where way2drug.py is located
 
-## Download the chrome driver from https://chromedriver.chromium.org/downloads and place in the same of directory of way2drug_program.py file
+## 3 Create and activate python virtual environment
+create virtual environment 
 
-## 2 Activate the environment using 
-env/Scripts/activate for windows 
-source env/bin/activate for linux
+python -m venv env
 
-## enter the username and password with way2drug account in way2drug_final.py
+Activate environment
+
+For windows
+
+env/Scripts/activate
+
+For linux
+
+source env/bin/activate
+
+## 4 Install required Dependencies
+Run below command to install
+pip install -r requirements.txt
+
+## Enter username and password
+Enter username and password in way2drug.py
+
 
