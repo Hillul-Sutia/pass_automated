@@ -33,6 +33,6 @@ Enter username and password in way2drug_program.py
 
 ## 6 Run way2drug_program.py
 
-The program will create and store the Bio-Activity and Toxicity Prediction results into separate files.
+The program will store the Bio-Activity and Toxicity Prediction results into separate files.
 
 
