@@ -28,7 +28,11 @@ Run below command to install
 
 pip install -r requirements.txt
 
-## Enter username and password
+## 5 Enter username and password
 Enter username and password in way2drug_program.py
+
+## 6 Run way2drug_program.py
+
+The program will create and store the Bio-Activity and Toxicity Prediction results into separate files.
 
 
