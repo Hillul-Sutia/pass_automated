@@ -1,6 +1,6 @@
-### Automated PASS SMILES Bio-Activity and Toxicity Prediction
+# Automated PASS SMILES Bio-Activity and Toxicity Prediction
 
-![]
+![](https://github.com/Hillul-Sutia/pass_automated/blob/main/PASS_selenium_frame.gif)
 
 # Instructions for usage
 
