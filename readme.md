@@ -31,7 +31,10 @@ pip install -r requirements.txt
 ## 5 Enter username and password
 Enter username and password in way2drug_program.py
 
-## 6 Run way2drug_program.py
+## 6 Paste SMILES in input_smiles.txt file 
+One SMILES per line
+
+## 7 Run way2drug_program.py
 
 The program will store the Bio-Activity and Toxicity Prediction results into separate files.
 
