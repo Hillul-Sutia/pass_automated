@@ -10,22 +10,17 @@ Download chrome driver from https://chromedriver.chromium.org/downloads that mat
 
 ## 3 Create and activate python virtual environment
 create virtual environment 
-
 `python -m venv env`
 
 Activate environment
-
 For windows
-
 `env/Scripts/activate`
 
 For linux
-
 `source env/bin/activate`
 
 ## 4 Install required Dependencies
 Run below command to install
-
 `pip install -r requirements.txt`
 
 ## 5 Enter username and password
