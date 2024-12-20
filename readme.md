@@ -5,7 +5,7 @@
 # Instructions for usage
 
 ## 1 Download this repository
-## 2 Download chrome driver 
+## 2 Download chrome driver (Optional)
 Download chrome driver from https://chromedriver.chromium.org/downloads that matches your chrome browser version and Paste the driver in the same diretory where way2drug_program.py is located
 
 ## 3 Create and activate python virtual environment
